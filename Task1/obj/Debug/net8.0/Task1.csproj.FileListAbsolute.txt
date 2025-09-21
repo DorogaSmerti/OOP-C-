@@ -1,0 +1,14 @@
+D:\All\IПЗ-22\Practical1\Task1\bin\Debug\net8.0\Task1.exe
+D:\All\IПЗ-22\Practical1\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\All\IПЗ-22\Practical1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\All\IПЗ-22\Practical1\Task1\bin\Debug\net8.0\Task1.dll
+D:\All\IПЗ-22\Practical1\Task1\bin\Debug\net8.0\Task1.pdb
+D:\All\IПЗ-22\Practical1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\All\IПЗ-22\Practical1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\All\IПЗ-22\Practical1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\All\IПЗ-22\Practical1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\All\IПЗ-22\Practical1\Task1\obj\Debug\net8.0\Task1.dll
+D:\All\IПЗ-22\Practical1\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\All\IПЗ-22\Practical1\Task1\obj\Debug\net8.0\Task1.pdb
+D:\All\IПЗ-22\Practical1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\All\IПЗ-22\Practical1\Task1\obj\Debug\net8.0\ref\Task1.dll
