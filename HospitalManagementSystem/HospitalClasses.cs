@@ -45,7 +45,7 @@ namespace HospitalManagementSystem
             if (Patients.Count < Capacity)
             {
                 Patients.Add(patient);
-                Console.WriteLine($"{patient.Name} доданий у палату №{RoomNumber}");
+                Console.WriteLine($"{patient.Name} доданий у палату №{RoomNumber}"); // краще не використовувати Console.Writeline методи повинi повертати, а вже класс Hospital вирiщувати, що з цим робити
             }
             else
             {
@@ -74,7 +74,7 @@ namespace HospitalManagementSystem
     {
         public List<Doctor> Doctors;
         public List<Patient> Patients;
-        public List<HospitalRoom> Rooms;
+        public List<HospitalRoom> Rooms; // краще зробити цi класси приватними та одразу iнiцiалiзувати типу так private readonly List<HospitalRoom> _rooms = new List<HospitalRoom>();
         public List<MedicalRecord> Records;
         public Hospital()
         {
@@ -176,3 +176,4 @@ namespace HospitalManagementSystem
         }
     }
 }
+
